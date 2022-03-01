@@ -1,2 +1,1 @@
-# greetings
-Let's get started!
+# Hello World
